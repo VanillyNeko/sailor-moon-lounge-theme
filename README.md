@@ -1,7 +1,7 @@
-# anya-lounge-theme
+# sailor-moon-lounge-theme
 This is a theme for the-lounge and matches the Anya BD theme
 
-Can be installed using: ```thelounge install thelounge-theme-anya-theme```
+Can be installed using: ```thelounge install sailor-moon-tl-theme```
 
 Overrides can be used if you don't like specific features of my theme! You would put these in the custom css box on the settings page!
 
@@ -9,8 +9,8 @@ Overrides are below:
 
 ```
 :root {
-    --body-bg-color: url("https://vanillyneko.github.io/Anya-bd/assets/anya-darkened.jpg");
-    --window-bg-color: url("https://vanillyneko.github.io/Anya-bd/assets/anya-darkened.jpg");
+    --body-bg-color: url("https://vanillyneko.github.io/sailor-moon-lounge-theme/assets/chibi-sailor-moon.jpg");
+    --window-bg-color: url("https://vanillyneko.github.io/sailor-moon-lounge-theme/assets/chibi-sailor-moon.jpg");
     --backgroundposition: center;
     --backgroundsize: cover;
     --backgroundOpacity: 100;
@@ -25,7 +25,7 @@ Overrides are below:
     --background-light-color: #58026c;
     --overlay-bg-color: rgba(0, 0, 0, 0.58);
     --window-heading-color: rgb(88, 2, 108);
-    --font-choice: Pacifico;
+    --font-choice: Caveat;
     --self-font-color: rgb(101, 161, 255);
 }
 ```
